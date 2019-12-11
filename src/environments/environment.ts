@@ -5,8 +5,8 @@
 export const environment = {
   production: false,
   //baseUrl: 'http://localhost:3000/v1'
-  //baseUrl: 'http://glass.eis.utoronto.ca:3000/v1'
-  baseUrl: 'http://ec2-34-222-143-221.us-west-2.compute.amazonaws.com:8080/products-ut-wo-db/rest'
+  baseUrl: 'http://glass.eis.utoronto.ca:3000/v1'
+  //baseUrl: 'http://ec2-34-222-143-221.us-west-2.compute.amazonaws.com:8080/products-ut-wo-db/rest'
 
 };
 
